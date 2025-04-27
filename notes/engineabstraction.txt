@@ -1,0 +1,42 @@
+Vertex
+    vec3 position
+    vec3 color
+struct Mesh
+    vector<Vertex> vertices
+
+
+class Engine
+    private:
+    Vector<Object> gameObjects
+    drawObjects() //iterate through objects and draw their meshes
+    mainLoop() //handle events, call update functions, and draw objects
+    update() //go through all game objects and call their update callbacks
+
+    public:
+    submitObject()
+    start()
+
+class Object
+    Mesh mesh
+    int x
+    int y
+    int z
+
+    virtual void update()
+
+
+//example boilerplate
+
+class MyObject : Object{
+    void update(){
+        x++;
+    }
+};
+
+Engine engine = new Engine();
+
+MyObject obj = new MyObject();
+
+engine.submitObject(obj);
+engine.start();
+

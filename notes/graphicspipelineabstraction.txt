@@ -1,0 +1,23 @@
+class Shader
+    VkShaderModule _shaderModule
+    VkShaderStageFlagBits _shaderStage
+    std::string _shaderEntryPoint
+
+    Shader(VkShaderStageFlagBits stage, std::string filepath, std::string entrypoint)
+
+class PipelineBuilder
+    VkPipeline pipeline
+    VkPipelineLayout _pipelineLayout
+    vector<Shader> shaders
+
+    
+    setShader(Shader shader)
+    setInputAssembly(VkPrimitiveTopology)
+    setVertexInputStage()
+    setTesselation()
+    setViewPortState(VkViewport viewport, VkRect2D scissor)
+    setRasterizationState(VkPolygonMode polygonMode, VkCullModeFlagBits cullMode, VkFrontFace frontFace, float lineWidth)
+    setColorBlendState()
+    setPipelineLayout()
+
+    VkPipeline getPipeline()

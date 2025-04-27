@@ -1,0 +1,5 @@
+C:/Vulkan/CMakeFiles/out.dir
+C:/Vulkan/CMakeFiles/ALL_BUILD.dir
+C:/Vulkan/CMakeFiles/ZERO_CHECK.dir
+C:/Vulkan/volk/CMakeFiles/volk.dir
+C:/Vulkan/volk/CMakeFiles/ALL_BUILD.dir

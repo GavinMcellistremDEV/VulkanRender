@@ -1,0 +1,12 @@
+C:/Vulkan/out/build/x64-Debug/CMakeFiles/out.dir
+C:/Vulkan/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Vulkan/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Vulkan/out/build/x64-Debug/SDL/CMakeFiles/SDL3-shared.dir
+C:/Vulkan/out/build/x64-Debug/SDL/CMakeFiles/SDL3_test.dir
+C:/Vulkan/out/build/x64-Debug/SDL/CMakeFiles/SDL_uclibc.dir
+C:/Vulkan/out/build/x64-Debug/SDL/CMakeFiles/uninstall.dir
+C:/Vulkan/out/build/x64-Debug/SDL/CMakeFiles/edit_cache.dir
+C:/Vulkan/out/build/x64-Debug/SDL/CMakeFiles/rebuild_cache.dir
+C:/Vulkan/out/build/x64-Debug/volk/CMakeFiles/volk.dir
+C:/Vulkan/out/build/x64-Debug/volk/CMakeFiles/edit_cache.dir
+C:/Vulkan/out/build/x64-Debug/volk/CMakeFiles/rebuild_cache.dir

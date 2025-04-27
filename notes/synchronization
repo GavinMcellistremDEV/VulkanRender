@@ -1,0 +1,4 @@
+semaphore
+    -synchronize execution on the gpu
+fence
+    -synchronize execution on cpu
